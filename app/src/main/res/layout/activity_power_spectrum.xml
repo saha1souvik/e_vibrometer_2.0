@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Show Graph"
+                android:background="@drawable/border"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="130dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.469"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/gView"
+                app:layout_constraintVertical_bias="1.0" />
+
+            <com.jjoe64.graphview.GraphView
+                android:id="@+id/gView"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="720dp"
+                tools:ignore="MissingConstraints" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

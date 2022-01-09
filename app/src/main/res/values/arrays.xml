@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerIpType">
+        <item>I/P</item>
+        <item>Dev</item>
+        <item>AUX</item>
+    </string-array>
+
+    <string-array name="spinnerChoice">
+        <item>Mode</item>
+        <item>Time</item>
+        <item>ABSFFT</item>
+    </string-array>
+</resources>

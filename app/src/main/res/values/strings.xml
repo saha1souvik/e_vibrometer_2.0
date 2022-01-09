@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Intelvib_4.0</string>
+    <string name="sih_2020_round2">SIH 2020; ROUND2</string>
+    <string name="team_chargers">TEAM CHARGERS</string>
+    <string name="enter_your_mailid">Enter your mailid</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">LOGIN</string>
+    <string name="forget_password">forget password</string>
+    <string name="register_yourself">Register Yourself?</string>
+    <string name="enter_vibration_frequency">Enter vibration frequency</string>
+    <string name="if_vibration_freq_safe_limit_issues_warning"><![CDATA[( if vibration freq > safe limit, issues warning]]></string>
+    <string name="generate_fft">Generate FFT</string>
+    <string name="x">X:</string>
+    <string name="y">Y :</string>
+    <string name="z">Z :</string>
+    <string name="y_axis">Y - axis :</string>
+    <string name="edit_x">Edit_X</string>
+    <string name="edit_y">Edit_Y</string>
+    <string name="edit_z">Edit_Z</string>
+    <string name="X_axis">X - axis :</string>
+    <string name="z_axis">Z_axis</string>
+    <string name="fetch_data">FETCH DATA</string>
+    <string name="enter_safe_limit">enter_safe_limit</string>
+    <string-array name="axes">
+        <item>X-axis</item>
+        <item>Y-axis</item>
+        <item>Z-axis</item>
+    </string-array>
+    <string name="title_activity_power_spectrum">PowerSpectrum</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="start_reading">Start Reading</string>
+    <string name="show_graph">Show Graph</string>
+    <string name="absolute_magnitude">ABSOLUTE  MAGNITUDE</string>
+    <string name="power_spectrum">POWER  SPECTRUM</string>
+    <string name="x_axis">X-axis</string>
+</resources>

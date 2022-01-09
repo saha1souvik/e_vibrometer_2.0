@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060366597898",
+    "firebase_url": "https://vibrationdata-d43b5.firebaseio.com",
+    "project_id": "vibrationdata-d43b5",
+    "storage_bucket": "vibrationdata-d43b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060366597898:android:f69cc2b94176cfa9c384f3",
+        "android_client_info": {
+          "package_name": "com.example.e_vibrometer_20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060366597898-agf9dj7aglr1iiclk8ogg7r23dgj0jdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_vibrometer_20",
+            "certificate_hash": "b34cd7cf57bc46c65f87bd58c6b3cbae38b150dc"
+          }
+        },
+        {
+          "client_id": "1060366597898-a79qku74t8pvie6oaks6lcv902gqesrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWqEMYJmcfB7l4unm27Z4zNshU49-6-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060366597898-a79qku74t8pvie6oaks6lcv902gqesrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
